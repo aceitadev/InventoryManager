@@ -63,9 +63,7 @@ InventoryManager.PageButtons.CLOSE.setSlot(50);
 - **Botões Não Aparecem?**  
   Verifique se `setButtons()` foi chamado e os slots estão corretos.  
 - **Itens Sumindo?**  
-  Confira se o `itemsPerPage` não excede o espaço do inventário.  
-- **Erros ao Abrir?**  
-  Garanta que o jogador não esteja com inventários abertos (ex: baú).  
+  Confira se o `itemsPerPage` não excede o espaço do inventário.   
 
 ---
 
