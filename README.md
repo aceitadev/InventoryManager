@@ -1,4 +1,3 @@
-```markdown
 # InventoryManager 📦
 
 O `InventoryManager` é uma classe utilitária para facilitar o gerenciamento de inventários paginados em plugins Bukkit/Spigot para Minecraft. Com ela, você pode criar inventários personalizados, implementar paginação e adicionar botões de navegação de forma simples e intuitiva.
@@ -101,4 +100,3 @@ Armazena a configuração para paginação dos itens:
   - `PageButtons getButton(PageButtons button)`: Retorna o botão de navegação solicitado, se existir.
 - **Setters**:
   - `void setButtons(List<PageButtons> buttons)`: Define os botões de navegação a serem utilizados.
-```
