@@ -59,7 +59,7 @@ InventoryManager.PageButtons.CLOSE.setSlot(50);
 
 ---
 
-## :tools: **Solução de Problemas**  
+## ⚙ **Solução de Problemas**  
 - **Botões Não Aparecem?**  
   Verifique se `setButtons()` foi chamado e os slots estão corretos.  
 - **Itens Sumindo?**  
