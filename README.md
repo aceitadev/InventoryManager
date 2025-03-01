@@ -74,7 +74,7 @@ InventoryManager manager = new InventoryManager("Loja de Itens", 54);
 
 // Adicionar itens à loja
 List<ItemStack> itensLoja = new ArrayList<>();
-itensLoja.add(new ItemStack(Material.*DIAMOND_SWORD*));
+itensLoja.add(new ItemStack(Material.DIAMOND_SWORD));
 // ... (adicione mais itens)
 
 // Configurar página
